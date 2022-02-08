@@ -1,6 +1,6 @@
-import BoChart from './bo-chart.vue'
+import BoCode from './bo-code.vue'
 
-BoChart.install = function (Vue) {
-  Vue.component(BoChart.name, BoChart)
+BoCode.install = function (Vue) {
+  Vue.component(BoCode.name, BoCode)
 }
-export default BoChart
+export default BoCode
