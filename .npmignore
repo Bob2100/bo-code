@@ -1,0 +1,6 @@
+.husky
+.vscode
+node_modules
+.prettierignore
+.prettierrc.json
+jsconfig.json
